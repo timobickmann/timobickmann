@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+MERN-Stack Student at [DCI](https://digitalcareerinstitute.org/de/courses/web-development).
+
+Currently working on a [Sveltekit project](https://github.com/timobickmann/webdev-learning-hub) to keep track of my learning, notetaking, etc. 
+
+
 <!--
 **timobickmann/timobickmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
