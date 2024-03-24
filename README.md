@@ -12,8 +12,7 @@ I'm Timo, a passionate Fullstack Developer from Obermarsberg, Germany. My fascin
 - **Backend:** Node.js, Express, MongoDB, PostgreSQL, Supabase
 - **DevOps & Tools:** VPS, Docker, GitHub Actions, Nginx, Ubuntu, MacOS, Shell
   
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,express,github,githubactions,ai,lit,mongodb,nextjs,nginx,nodejs,postgres,supabase,svelte,tailwind,ts,vite,wordpress,ubuntu,apple,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,svelte,tailwind,lit,vite,nodejs,express,mongodb,postgres,supabase,docker,github,githubactions,nginx,ubuntu,apple,bash,nextjs,ai,wordpress)](https://skillicons.dev)
 
 ## Connect with me 🌐
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/timobickmann)
