@@ -1,9 +1,9 @@
 # Hi there! 👋
 
-I'm Timo, a passionate Fullstack Developer from Obermarsberg, Germany. My fascination with technology began in school, where I completed my high school diploma in Electrical Engineering. This led me to start studying Technical Computer Science after school. Currently doing a further education as a Web Developer at [DCI](https://digitalcareerinstitute.org/de/courses/web-development).
+I'm Timo, a passionate Fullstack Developer from Obermarsberg, Germany. My fascination with technology began in school, where I completed my high school diploma in Electrical Engineering. This led me to start studying Technical Computer Science after school. Recently finished a further education as a Web Developer at [DCI](https://digitalcareerinstitute.org/de/courses/web-development).
 
 ## My Tech Stack 🛠
-- **Languages:** JavaScript, TypeScript, (rusty with Assembler, C and Python)
+- **Languages:** JavaScript, TypeScript
 - **Frontend:** React, Next.js, Svelte, Tailwind CSS, Astro, Lit, Vite
 - **Backend:** Node.js, Express, MongoDB, PostgreSQL, Supabase
 - **DevOps & Tools:** VPS, Docker, GitHub Actions, Nginx, Ubuntu, MacOS, Shell
